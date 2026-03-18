@@ -49,6 +49,15 @@ These methods allow us to evaluate both group differences and predictive relatio
 - ggplot2
 - Statistical visualization techniques
 
+## Key Analysis Visualizations
+
+The analysis used multiple statistical visualizations to understand the dataset and validate model assumptions:
+
+- Boxplots to compare calories burned across workout types
+- QQ plots to assess normality assumptions
+- Residual plots for regression diagnostics
+- Distribution plots to examine workout duration and calorie burn patterns
+
 **Results & Practical Recommendations**
 
 The statistical analysis revealed several important findings regarding workout behavior and exercise outcomes.
