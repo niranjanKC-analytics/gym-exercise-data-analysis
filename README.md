@@ -63,6 +63,10 @@ These methods allow us to evaluate both group differences and predictive relatio
 
 ![Regression Diagnostics](figures/regression_diagnostics.png)
 
+These visualizations illustrate the statistical analysis performed on the gym exercise dataset. 
+The boxplot compares calorie expenditure across workout types, while the Q-Q plot and regression 
+diagnostic plots validate the assumptions of the regression model used in the analysis.
+
 
 **Results & Practical Recommendations**
 
