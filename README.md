@@ -1,15 +1,18 @@
 **Gym Exercise Data Analysis Using ANOVA and Regression in R**
 
 **Executive Summary**
+
 This project analyzes gym workout data to understand factors that influence exercise outcomes such as calories burned and workout session duration. Using statistical techniques including Analysis of Variance (ANOVA) and multiple linear regression in R, the analysis explores relationships between workout type, workout frequency, body composition variables, and performance metrics.
 The goal of this project is to demonstrate how statistical modeling and exploratory data analysis can uncover meaningful insights from fitness and health data. These insights can help fitness professionals and training programs better understand the variables that contribute to workout effectiveness.
 
 **Business Problem**
+
 Fitness centers and health platforms collect large volumes of workout and physiological data from their users. However, this data is often underutilized and not fully analyzed to identify the factors that most strongly influence exercise performance and fitness outcomes.
 Understanding how variables such as workout type, workout frequency, body composition, and heart rate metrics affect calorie expenditure and workout duration can help gyms, trainers, and fitness platforms design more effective training programs and personalized workout plans.
 This project aims to identify key relationships within fitness data using statistical analysis techniques.
 
 **Methodology**
+
 The analysis was conducted using the following steps:
 
 - Data cleaning and preprocessing in **R**
