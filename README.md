@@ -1,4 +1,4 @@
-**Gym Exercise Data Analysis Using ANOVA and Regression in R**
+**Statistical analysis of gym workout data using ANOVA and regression modeling in R.**
 
 **Executive Summary**
 
